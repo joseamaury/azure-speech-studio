@@ -14,19 +14,19 @@ Descrever o propósito do laboratório e os conceitos de Speech e Language AI ap
 3. Testar análise de linguagem natural (Language Studio)
 4. Capturar resultados relevantes
 
-##Pagina de login do microsoft speech studio
+## Pagina de login do microsoft speech studio
 
 ![Login no speech studio](images/image1.PNG)
 
-##Upload de um audio em ingles onde o microsoft speech studio me retornou a transcricao perfeita do que foi falado.
+## Upload de um audio em ingles onde o microsoft speech studio me retornou a transcricao perfeita do que foi falado.
 
 ![Transcricao de audio](images/image2.PNG)
 
-##Nele possui a possibilidade de enviar qualquer arquivo de audio ou texto em diferentes idiomas que ele ira transcrever/traduzir
+## Nele possui a possibilidade de enviar qualquer arquivo de audio ou texto em diferentes idiomas que ele ira transcrever/traduzir
 
 ![Escolha do idioma](images/image3.PNG)
 
-##Apos isso basta configurar o azure fala, selecionar planos e valores e aproveitar a ferramenta
+## Apos isso basta configurar o azure fala, selecionar planos e valores e aproveitar a ferramenta
 
 ![Configurando o azure fala](images/image4.PNG)
 
