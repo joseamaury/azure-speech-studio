@@ -14,13 +14,13 @@ Descrever o propósito do laboratório e os conceitos de Speech e Language AI ap
 3. Testar análise de linguagem natural (Language Studio)
 4. Capturar resultados relevantes
 
-![Login no speech studio](images/capturas/image1.png)
+![Login no speech studio](images/image1.png)
 
-![Transcricao de audio](images/capturas/image2.png)
+![Transcricao de audio](images/image2.png)
 
-![Escolha do idioma](images/capturas/image3.png)
+![Escolha do idioma](images/image3.png)
 
-![Configurando o azure fala](images/capturas/image4.png)
+![Configurando o azure fala](images/image4.png)
 
 ## Referências
 - [Speech Studio Documentation](link)
